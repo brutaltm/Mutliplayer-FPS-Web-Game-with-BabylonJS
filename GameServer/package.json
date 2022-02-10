@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "babylonjs": "^4.2.0",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v19.1.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {}
+}

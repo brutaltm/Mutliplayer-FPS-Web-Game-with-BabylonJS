@@ -1,0 +1,20 @@
+{
+  "name": "clientapp",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "description": "Simple FPS Game",
+  "main": "startStaticServer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node startStaticServer.js"
+  },
+  "author": "brutaltm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

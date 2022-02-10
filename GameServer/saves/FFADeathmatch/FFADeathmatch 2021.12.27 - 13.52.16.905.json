@@ -1,0 +1,46 @@
+{
+	"name": "FFADeathmatch 2021.12.27 - 13.52.16.905",
+	"date": "2021.12.27 - 13.52.16.905",
+	"settings": {
+		"gamemode": "FFADeathmatch",
+		"teams": [
+			"brutaltm",
+			"brutaltm(1)"
+		],
+		"time": 60,
+		"maxScore": -1,
+		"respawnDelay": 3000
+	},
+	"status": {
+		"scores": {
+			"brutaltm": 0,
+			"brutaltm(1)": 5
+		},
+		"timeLeft": 120,
+		"started": true
+	},
+	"players": [
+		{
+			"name": "brutaltm",
+			"team": "brutaltm",
+			"position": {
+				"x": 10.73460865020752,
+				"y": -0.8355721374511729,
+				"z": -11.687490463256836
+			},
+			"health": 100,
+			"maxHealth": 100
+		},
+		{
+			"name": "brutaltm(1)",
+			"team": "brutaltm(1)",
+			"position": {
+				"x": 16.46917868210058,
+				"y": -0.8535683550633436,
+				"z": 3.7145355209699075
+			},
+			"health": 100,
+			"maxHealth": 100
+		}
+	]
+}

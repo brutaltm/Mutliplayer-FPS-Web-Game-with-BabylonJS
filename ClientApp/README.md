@@ -8,8 +8,6 @@
 
 * [Babylon.js](https://babylonjs.com/)
 
- Presentation of client side of project: ...
- 
  <!-- LICENSE -->
 ## License
 

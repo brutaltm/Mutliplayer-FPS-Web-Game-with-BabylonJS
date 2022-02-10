@@ -1,8 +1,10 @@
 # Mutliplayer FPS Web Game with BabylonJS
  Made with BabylonJS, WebSocket
 
- ## Demo (SinglePlayer) on Heroku:\
+ ### Demo (SinglePlayer) on Heroku:
  https://fpsgamedemo.herokuapp.com/ (site might take couple seconds to launch)\
+ 
+  ### Overview
  
  `ClientApp` - Actual game made with Babylon.js\
  `GameServer` - Game server for multiplayer\

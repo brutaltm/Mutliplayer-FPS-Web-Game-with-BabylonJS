@@ -1,7 +1,7 @@
 # Mutliplayer FPS Web Game with BabylonJS
  Made with BabylonJS, WebSocket
 
- #Demo (SinglePlayer) on Heroku: 
+ #Demo (SinglePlayer) on Heroku:\
  https://fpsgamedemo.herokuapp.com/ (site might take couple seconds to launch)\
  
  `ClientApp` - Actual game made with Babylon.js\
@@ -25,4 +25,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Ragdoll.js](https://github.com/jongomez/ragdoll.js/)
 * [Oimo.js](https://github.com/lo-th/Oimo.js/)
 * [Low Poly AK-47](https://skfb.ly/opD99) by lokeig
-* [Ak47 Sound] (https://freesound.org/s/509430/) by seanmorrissey96
+* [Ak47 Sound](https://freesound.org/s/509430/) by seanmorrissey96

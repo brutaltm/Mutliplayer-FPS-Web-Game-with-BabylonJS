@@ -8,7 +8,7 @@
  
  `ClientApp` - Actual game made with Babylon.js\
  `GameServer` - Game server for multiplayer\
- `AuthServer` - Authorization Server\
+ `AuthServer` - Authorization Server
  
  ### Built With
 

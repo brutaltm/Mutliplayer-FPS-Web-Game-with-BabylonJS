@@ -2,7 +2,7 @@
  Made with BabylonJS, WebSocket
 
  ### Demo (SinglePlayer) on Heroku:
- https://fpsgamedemo.herokuapp.com/ (site might take couple seconds to launch)\
+ https://fpsgamedemo.herokuapp.com/ (site might take couple seconds to launch)
  
   ### Overview
  

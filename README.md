@@ -13,7 +13,7 @@
  ### Built With
 
 * [Babylon.js](https://babylonjs.com/)
-* [uWebSockets](https://github.com/uNetworking/uWebSockets.js/)
+* [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js/)
 
  
  <!-- LICENSE -->
